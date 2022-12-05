@@ -1,7 +1,7 @@
 # React-auth-boilerplate
 
 
-###React Auth - Boilerplate 
+
 
 Desenvolvido para ser um boilerplate para criar tela  de autentiacação com React. O fluxo e as rotas já estão desenvolvidos.
 
